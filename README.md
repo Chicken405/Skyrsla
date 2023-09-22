@@ -1,7 +1,7 @@
 # Skyrsla
 Duc er programmer <br> Ingimar er lóðarinn
 
-# Hvernig Spilin virkar?
+# Hvernig Virkar Spilin?
 Spilin virkar eins og snakes and ladders nema með valkostir og bensín.
 Leikmennirnir byrja á rétti 1 og reyni að komamst til End.
 Leikmennirnir byrja með 12 bensín og reyni að vera með meira bensín en hín leikmann.
