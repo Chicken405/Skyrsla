@@ -12,6 +12,7 @@ Leikmennirnir byrja með 12 bensín og reyni að vera með meira bensín en hín
 Myndir:
 <br>
 ![Mynd](https://github.com/Chicken405/Skyrsla/blob/main/20230922_094110.jpg)
+<br>
 ![Mynd](https://github.com/Chicken405/Skyrsla/blob/main/20230922_103730.jpg)
 
 
