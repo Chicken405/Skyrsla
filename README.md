@@ -10,6 +10,7 @@ Leikmennirnir byrja með 12 bensín og reyni að vera með meira bensín en hín
 2. Lengri. Ef leikmaður velur það fæ sá leikmaðurinn +1 bensín
 <br>
 Myndir:
+<br>
 ![Mynd](https://github.com/Chicken405/Skyrsla/blob/main/20230922_094110.jpg)
 ![Mynd](https://github.com/Chicken405/Skyrsla/blob/main/20230922_103730.jpg)
 
