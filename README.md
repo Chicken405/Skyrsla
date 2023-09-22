@@ -1,5 +1,5 @@
-# Skyrsla
-Duc er programmer <br> Ingimar er lóðarinn
+# Höfunfer
+Duc og Ingimar
 
 # Hvernig Virkar Spilin?
 Spilin virkar eins og snakes and ladders nema með valkostir og bensín stig.
