@@ -1,4 +1,4 @@
-# Höfunfer
+# Höfundurnar
 Duc og Ingimar
 
 # Hvernig Virkar Spilin?
